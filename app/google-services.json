@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648002329365",
+    "firebase_url": "https://mvcmanukautech2.firebaseio.com",
+    "project_id": "mvcmanukautech2",
+    "storage_bucket": "mvcmanukautech2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648002329365:android:16753f169f69d49c37271c",
+        "android_client_info": {
+          "package_name": "com.example.mazahs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648002329365-gm652qe5qjcrf5gjgji3cb3jqi1mq1cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnBHXt23_zl_Y0dUFIWAqAVho9_8w667E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648002329365-gm652qe5qjcrf5gjgji3cb3jqi1mq1cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
